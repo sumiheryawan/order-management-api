@@ -1,12 +1,5 @@
 # 🚀 Order Management System
 
-### 1. Badge
-```md
-![.NET](https://img.shields.io/badge/.NET-8-blue)
-![Docker](https://img.shields.io/badge/Docker-Enabled-blue)
-![Kafka](https://img.shields.io/badge/Kafka-Event--Driven-orange)
-
-
 ## 📌 Overview
 Order Management System is a web-based backend application designed to manage product orders using a **modern and scalable architecture**.
 
